@@ -4,5 +4,18 @@
     <string name="ButtonText">Button</string>
     <string name="CheckBox">Check this out!</string>
     <string name="On_Off">On / Off</string>
-    <string name="hint_text">Type your answer here</string>
+    <string name="hint_text">Type your answer here:</string>
+    <string name="hint_password">Type your password:</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="Email">Your email:</string>
+    <string name="hint_title">Enter your email address:</string>
+    <string name="hint_login">LOGIN</string>
+    <string name="profile">Your profile</string>
+    <string name="name">Your Name:</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="picture">Your picture:</string>
+    <string name="msg">Click the button above to take a picture</string>
+
+
+
 </resources>
